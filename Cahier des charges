@@ -1,0 +1,26 @@
+Cahier des charges fonctionnel
+Objectif : 
+Onglet formation:
+•	Ninja
+•	Pack Office
+Proposer des formations aux utilisateurs de la M2L,
+Connexion avec log et password
+Suivi de formation 
+Choix de la formation à passer
+ 
+Fonctions attendues : 
+1.	Compte : 
+•	Création de compte (profil)
+•	Connexion/déconnexion
+•	MDP/pseudo Oublié
+2.	Accueil :
+•	Formations effectuées
+•	Formations disponibles
+•	Formations en cours
+ 
+Présentation M2L :
+
+-	La M2L est la maison des ligues de Lorraine ;
+-	La M2L permet aux utilisateurs des différentes ligues de pouvoir suivre diverses formations ;
+-	Elle permet aussi de fournir des ressources adaptées aux besoins des différentes ligues ;
+-	La M2L accueille l’ensemble du mouvement sportif rural, regroupement 6500 clubs, pour un total de 82500 adhér
